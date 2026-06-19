@@ -21,7 +21,7 @@ Marked Hawkes processes](https://doi.org/10.1007/s00180-025-01664-9). We indeed 
   5) Theoretical std calculations:
      Using the parameters we obtained from 4), and other information about the distribution of price changes we obtained from 3), we plot the theoretical standart deviations against the one that we obtained in 2). We do additional MSE and percentage error calculations to quantify our fits.
 
-We refer to our paper.......... by ............
+If you happen to use this code, please consider citing our paper(here).
      
      
 
