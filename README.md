@@ -13,7 +13,8 @@ Our suggested order for reading the notebooks:
   3) Estimation of marks and other parameters:
      We first introduce the marks in our marked hawkes process as the volume in our limit order booklet. We decide to use the logarithm of the marks, for the sake of numerical stability. We fit a gaussian to the log-normalised volume data, and estimate its parameters.
 
-     To estimate the parameters of the excitation kernel(a,b) and the background excitation rate($\lambda_0$), we minimize the negative-log-likelihood function of our marked hawkes process, taken from https://doi.org/10.1007/s00180-025-01664-9.
+     To estimate the parameters of the excitation kernel(a,b) and the background excitation rate($\lambda_0$), we minimize the negative-log-likelihood function of our marked hawkes process, taken from [Testing procedures based on maximum likelihood estimation for
+Marked Hawkes processes](https://doi.org/10.1007/s00180-025-01664-).
      
      
 
