@@ -1,5 +1,5 @@
 # Crypto-Marked-Compound-Hawkes-Process
-We build the documentation for the above project/paper.
+We build the documentation for the above paper, supported by TUBITAK Project No. 124F343.
 
 All data were taken from https://www.kaggle.com/datasets/martinsn/high-frequency-crypto-limit-order-book-data.
 
